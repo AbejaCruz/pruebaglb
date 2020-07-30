@@ -1,3 +1,9 @@
-<html>
-<h1>Hola</h1>
-</html>
+
+<HTML>
+<HEAD>
+<TITLE>ejemplo hola mundo</TITLE>
+</HEAD>
+<BODY>
+<P>Hola Mundo</P>
+</BODY>
+</HTML>
